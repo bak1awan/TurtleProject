@@ -7,5 +7,5 @@ When you will run this project in Unreal Editor, you will see a single `TurtlesC
 3. `Images` - pictures used for some widgets.
 4. `Level` - level itself.
 ### Key points to be noted
-1. The project implements two types of buttons - one is pressed *by standing* on it, the other - *by interacting* through the keyboard.
+1. The project implements two types of buttons - one is pressed *by standing* on it, the other - *by interacting* with the keyboard.
 2. Buttons, turtle nests, and finish locations are linked using *tags*.
